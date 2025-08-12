@@ -6,21 +6,21 @@
             "bin": [
                 "kubewall.exe"
             ],
-            "hash": "4446c2aed0124a5f8745f1584c6d9b246d84ba8e5307e9821f667fab49fb1212"
+            "hash": "26958cacbee0f9732eb2a20f80e376fec2cbd5d75a4f456f827a2b6df472e613"
         },
         "64bit": {
             "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.12/kubewall_Windows_x86_64.zip",
             "bin": [
                 "kubewall.exe"
             ],
-            "hash": "8d963b903d606caf9e554fd6c539b0bdd9f4b4182b7dc2016b8c4edd2020c19c"
+            "hash": "2eed7f265eb32f1472bc0bd954672d9ec279edfe948dddc340ffcbd9d69ea540"
         },
         "arm64": {
             "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.12/kubewall_Windows_arm64.zip",
             "bin": [
                 "kubewall.exe"
             ],
-            "hash": "975d7d287a485c26d3db95d19eec153daa56355750e47d476a353a40a83d1032"
+            "hash": "c416f86fa7f1bee73fdf8b0b1fb27ddbe2da4e4a040fd8da67356640e94a811f"
         }
     },
     "homepage": "https://github.com/kubewall/kubewall",
