@@ -1,26 +1,26 @@
 {
-    "version": "0.0.11",
+    "version": "0.0.12",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.11/kubewall_Windows_i386.zip",
+            "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.12/kubewall_Windows_i386.zip",
             "bin": [
                 "kubewall.exe"
             ],
-            "hash": "f20b54ad28442225884743111d0e3f48e219ad4aaa5e92edd1b33e7531a73636"
+            "hash": "4446c2aed0124a5f8745f1584c6d9b246d84ba8e5307e9821f667fab49fb1212"
         },
         "64bit": {
-            "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.11/kubewall_Windows_x86_64.zip",
+            "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.12/kubewall_Windows_x86_64.zip",
             "bin": [
                 "kubewall.exe"
             ],
-            "hash": "84e637a3ad4c0d27fe6f5adae6ca64ba916ee4ac02f634a20d0e7ac13d8967ac"
+            "hash": "8d963b903d606caf9e554fd6c539b0bdd9f4b4182b7dc2016b8c4edd2020c19c"
         },
         "arm64": {
-            "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.11/kubewall_Windows_arm64.zip",
+            "url": "https://github.com/kubewall/kubewall/releases/download/v0.0.12/kubewall_Windows_arm64.zip",
             "bin": [
                 "kubewall.exe"
             ],
-            "hash": "dad24f773fd49aea9d47a62544895af6cde4c36ed43322e07c1704afb941f000"
+            "hash": "975d7d287a485c26d3db95d19eec153daa56355750e47d476a353a40a83d1032"
         }
     },
     "homepage": "https://github.com/kubewall/kubewall",
